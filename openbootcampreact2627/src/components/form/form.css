@@ -1,0 +1,48 @@
+.form-container{
+    margin-top: 5%;
+    width: 90vh;
+}
+
+.tittle-form {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.cards-container{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width: 90vh;
+
+}
+
+.card-container{
+    
+    margin-left: 10%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.form-search{
+    margin-left: 16%;
+    margin-bottom: 10%;
+    display: flex;
+    justify-content:center;
+}
+
+.tasklist-box{
+    margin-left: 25%;
+}
+
+.card-container p{
+    width: 50vh;
+    margin:3% 2%;
+}
+
+.card-container button {
+    margin-left: 2%;
+}
+
+.list-cards{
+    display: flex;
+    flex-direction: row;
+}
